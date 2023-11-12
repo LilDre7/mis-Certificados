@@ -1,7 +1,7 @@
 export default jsonCertificados = [
   {
     id: 1,
-    title: "",
+    title: "React",
     img: "",
     description: "",
   },
